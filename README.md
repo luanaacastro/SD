@@ -2,4 +2,4 @@
 
 ## Sobre
 
-O projeto realiza a comunicação entre cliente e servidor
+O projeto em Java que realiza a comunicação entre cliente e servidor
